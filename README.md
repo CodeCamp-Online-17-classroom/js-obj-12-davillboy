@@ -11,3 +11,5 @@ const employees = {
   sarah: { salary: 2200, address: { district: 'Sriraja', province: 'Chonburi' } }
 };
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
